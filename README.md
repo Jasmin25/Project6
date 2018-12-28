@@ -9,7 +9,7 @@ This project is a single page responsive web application providing key locations
 
 # How to run?
 ----
-1. Download [this](https://github.com/Jasmin25/Neighbourhood_Map/) repository.
+1. Download [this](https://github.com/Jasmin25/Project6/) repository.
 2. Go into folder and open `index.html` in a web browser.
 
 # License

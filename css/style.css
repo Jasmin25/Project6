@@ -88,6 +88,7 @@ li:hover {
 @media (max-width: 800px) {
 	.col-sm-4 {
 		height: 60%;
+		overflow: auto;
 	}
 
 	.list-group {
@@ -96,6 +97,9 @@ li:hover {
 
 	.bordered {
 		border: 0;
+	}
+	#extra-image {
+		display: none;
 	}
 }
 

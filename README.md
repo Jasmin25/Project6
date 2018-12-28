@@ -9,8 +9,7 @@ This project is a single page responsive web application providing key locations
 
 <img align="left" src="https://raw.githubusercontent.com/Jasmin25/Project6/master/img/single.png" width="50" height="auto" title="Single Player" /> - shows that the game displayed is single player.
 
-<img align="left" src="https://raw.githubusercontent.com/Jasmin25/Project6/master/img/multiple.png" width="50" height="auto" title="Multi Player" /> - shows that the game displayed is multi player.
-
+<img src="https://raw.githubusercontent.com/Jasmin25/Project6/master/img/multiple.png" width="50" height="auto" title="Multi Player" /> - shows that the game displayed is multi player.
 
 # How to run?
 ----

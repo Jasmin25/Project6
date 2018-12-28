@@ -10,6 +10,9 @@ This project is a single page responsive web application providing key locations
 <img src="https://github.com/Jasmin25/Project6/tree/master/img/single.png" width=“50” height=“50” title=“Single Player”> - shows that the game displayed is single player.
 <img src="https://github.com/Jasmin25/Project6/tree/master/img/multi.png" width=“50” height=“50” title=“Multi Player”> - shows that the game displayed is multi player.
 
+<img src="https://raw.githubusercontent.com/coMindOrg/federated-averaging-tutorials/master/images/comindorg_logo.png" width="200" height="auto" />
+
+
 # How to run?
 ----
 1. Download [this](https://github.com/Jasmin25/Neighbourhood_Map/) repository.

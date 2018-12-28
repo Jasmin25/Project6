@@ -1,0 +1,109 @@
+html, 
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #4a4a4a;
+	font-family: 'Exo 2', sans-serif;
+}
+
+pre {
+	font-family: 'Exo 2', sans-serif;
+}
+
+li:hover {
+	background: #1CB4D1;
+	color: white;
+}
+
+.map {
+	height: 100%;
+}
+
+.container-fluid {
+	height:100%;
+}
+
+.row, .col-sm-4, .col-sm-8 {
+	height: 100%;
+}
+
+.main-view {
+	display: flex;
+}
+
+.col-sm-8 {
+	padding: 0 !important;
+}
+
+.form-control {
+	margin-bottom: 15px;
+}
+
+.list-group {
+	font-size: 12px;
+	height: auto;
+	max-height: 500px;
+	overflow-x: hidden;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: auto;
+    color: #d3d3d3; 
+}
+
+.sidebar-header {
+	font-size: 20px;
+	text-align:center;
+	color: #FFFFFF;
+}
+
+.header {
+	font-size:15px;
+	text-align:center;
+	font-weight: bold;
+	font-family: 'Exo 2', sans-serif;
+}
+
+.content {
+	font-size:12px;
+	text-align:center;
+	font-family: 'Exo 2', sans-serif;
+}
+
+.image {
+	position: relative;
+	left: 13px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: auto;
+	height: auto;
+}
+
+@media (max-width: 800px) {
+	.col-sm-4 {
+		height: 60%;
+	}
+
+	.list-group {
+		max-height: 200px;
+	}
+
+	.bordered {
+		border: 0;
+	}
+}
+
+@media (min-width: 801px) {
+	.bordered {
+	    border-style: solid !important;
+	    border-color: black !important;
+	    border-right-style: solid !important;
+		border-width: 0px 10px 0px 0px !important;
+	}
+}
